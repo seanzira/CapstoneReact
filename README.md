@@ -10,4 +10,5 @@
 ## Rules and App Usage
 * The purpose of the game is to guess what you think the hidden word is by selecting the letters provided to you.
 * You have a limited amount of wrong guesses, where once reached, you will have lost the game.
-* Your objective is to try and select the letters that you think are present in the word without exhausting your wrong guesses. 
+* Your objective is to try and select the letters that you think are present in the word without exhausting your wrong guesses.
+* GOODLUCK!
